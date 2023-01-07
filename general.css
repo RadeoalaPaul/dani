@@ -12,6 +12,14 @@ body {
     font-family: custom_font;
     src: url("custom_font.TTF");
 }
+@keyframes fade{
+    from {
+        opacity:0%;
+    }
+    to {
+        opacity:100%;
+    }
+}
 header {
     display:flex;
     align-items:center;
