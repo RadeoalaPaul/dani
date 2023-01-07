@@ -12,7 +12,8 @@
     font-family:'Times New Roman', Times, serif;
     text-align:justify;
     margin:75px;
-    max-width:65%
+    max-width:65%;
+    user-select:none;
 }
 
 video {
